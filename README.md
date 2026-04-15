@@ -64,30 +64,6 @@
 
 ---
 
-### 🔥 &nbsp;Projects
-
-<div align="center">
-
-<a href="https://github.com/Ra59s-Das/FraudDetectionPipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra59s-Das&repo=FraudDetectionPipeline&theme=dark&bg_color=111820&border_color=36454f&icon_color=7aafc4&title_color=7aafc4&text_color=a8bac0"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ra59s-Das/F1_Dominance_Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra59s-Das&repo=F1_Dominance_Analytics&theme=dark&bg_color=111820&border_color=36454f&icon_color=7aafc4&title_color=7aafc4&text_color=a8bac0"/>
-</a>
-
-<a href="https://github.com/Ra59s-Das/Trader_Behaviour_Insights">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra59s-Das&repo=Trader_Behaviour_Insights&theme=dark&bg_color=111820&border_color=36454f&icon_color=7aafc4&title_color=7aafc4&text_color=a8bac0"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ra59s-Das/Quack-Quack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra59s-Das&repo=Quack-Quack&theme=dark&bg_color=111820&border_color=36454f&icon_color=7aafc4&title_color=7aafc4&text_color=a8bac0"/>
-</a>
-
-</div>
-
----
-
 ### 🐍 &nbsp;Contributions
 
 <div align="center">
